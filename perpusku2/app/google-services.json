@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553412524113",
+    "project_id": "perpusku---rev",
+    "storage_bucket": "perpusku---rev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553412524113:android:6a844aeaa9df1f7d126070",
+        "android_client_info": {
+          "package_name": "com.frostdev.perpusku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553412524113-gn7t5sb4iteofcjj17g1sl64k3ju8agi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWLRq-p0CHnxmeTVaCsJAoiTv75--NDJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553412524113-gn7t5sb4iteofcjj17g1sl64k3ju8agi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
